@@ -1,0 +1,51 @@
+ECC COUNTRY-REPORTED DATASET
+===========================================================================
+Original genomes: 10713
+Source excluded: 653
+Country excluded after source filtering: 198
+Final included: 9862
+Overall retention: 92.056%
+
+COUNTRY AUDIT DISCREPANCIES
+Original reported; audit missing: 14
+Original missing; audit reported: 0
+All differing country entries: 14
+
+SOURCE DISTRIBUTION
+          Source  Genomes  Percent
+           Human     7958   80.694
+          Animal      695    7.047
+     Environment      865    8.771
+            Food       93    0.943
+Plant-associated      251    2.545
+
+TOP COUNTRIES
+Country_Harmonized  Genomes
+             China     2474
+     United States     1130
+            France      841
+           Germany      719
+    United Kingdom      685
+            Poland      417
+            Taiwan      258
+             Japan      254
+           Czechia      236
+             India      214
+             Spain      187
+         Argentina      165
+         Australia      164
+         Singapore      153
+            Mexico      141
+            Brazil      116
+       Switzerland      114
+      South Africa      113
+        Bangladesh      104
+           Nigeria      100
+
+NOTE:
+Original master country column is used for filtering.
+Differences with source-audit metadata are retained
+in ECC_COUNTRY_METADATA_DISCREPANCIES.xlsx.
+An income group has NOT been assigned at this stage.
+
+Generated: 2026-10-10T09:49:22.024041
