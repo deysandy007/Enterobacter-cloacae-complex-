@@ -1,0 +1,1014 @@
+================================================================================
+ECC ONE HEALTH AMR INPUT DATABASE AUDIT
+================================================================================
+Date: 2026-10-12 23:16:48.815560
+Root directory: D:\Enterobacter
+
+Total candidate data files: 67
+
+================================================================================
+GENOME METADATA
+================================================================================
+Matching files: 33
+D:\Enterobacter\ECC_FINAL_HIGH_QUALITY_NONREDUNDANT_MASTER.xlsx  |  33.10 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_EXCLUDED_GENOMES.tsv  |  0.94 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_EXCLUDED_GENOMES.xlsx  |  0.26 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_FINAL_ANALYSIS_MASTER.tsv  |  16.66 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_FINAL_ANALYSIS_MASTER.xlsx  |  4.38 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_EXCLUSION_AUDIT.xlsx  |  0.36 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_METADATA_DISCREPANCIES.xlsx  |  0.01 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_2000_2026_BEFORE_TAXONOMY.xlsx  |  3.85 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_2000_2026_MASTER.xlsx  |  4.13 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.tsv  |  15.54 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.xlsx  |  4.06 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\00_Source_Audit_Summary.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\01_Host_All_Raw_Values.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\02_Isolation_Source_All_Raw_Values.csv  |  0.02 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\03_Host_Normalized_Counts.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\04_Isolation_Source_Normalized_Counts.csv  |  0.02 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\05_Host_Source_Combinations.csv  |  0.03 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\06_All_Genomes_Source_Audit.csv  |  0.92 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\07_Country_Source_Missingness.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\08_Year_Source_Missingness.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\09_Source_Classification_Review.csv  |  0.05 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_SOURCE_CLASSIFICATION_MASTER.xlsx  |  0.64 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_ANTIBIOTIC_CONSUMPTION_COUNTRY_YEAR_MASTER.xlsx  |  0.72 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_LAST_RESORT_TEMPORAL_MASTER.xlsx  |  0.89 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\ECC_SUPPLEMENTARY_AND_SOURCE_DATA\ECC_FINAL_2000_2026_MASTER.xlsx  |  4.13 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03B_Species_AMR_Statistics\Fig_03B_Species_AMR_Statistical_Master.xlsx  |  0.41 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_AMR_Burden_WITH_STATISTICS.xlsx  |  0.25 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_FINAL_ALL_GENOMES_STATISTICS.xlsx  |  0.24 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_OneHealth_AMR_Burden_Master.xlsx  |  0.30 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_04_AMR_Gene_Prevalence_Heatmaps\Fig04_ALL_GENES_PREVALENCE_MASTER.xlsx  |  0.41 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_09_IMP_MCR_FINAL\Fig09_FINAL_IMP_MCR_Phylogeny_Master.xlsx  |  0.14 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_10_NDM_IMP_MCR_VARIATION\ECC_NDM_IMP_MCR_GENOME_MASTER.xlsx  |  0.86 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_10_NDM_IMP_MCR_VARIATION\IMP_MCR_PHYLOGENY_PREPARATION\IMP_MCR_VERIFIED_GENOME_INVENTORY.xlsx  |  0.30 MB
+
+================================================================================
+AMRFINDERPLUS RESULTS
+================================================================================
+Matching files: 10
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03_OneHealth_AMR_Audit\Fig03_OneHealth_Species_Income_AMR_Audit.xlsx  |  2.08 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03B_Species_AMR_Statistics\Fig_03B_Species_AMR_Statistical_Master.xlsx  |  0.41 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03D_ALL_SPECIES_GENE_HEATMAP\Fig_03D_ALL_SPECIES_ALL_AMR_GENES_Data.xlsx  |  0.68 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03D_Complex_AMR_Heatmap\Fig_03D_Complex_AMR_Class_Heatmap_Data.xlsx  |  0.13 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03F_OneHealth_AMR_Burden\Fig03F_OneHealth_AMR_Burden_Statistics.xlsx  |  0.04 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_AMR_Burden_WITH_STATISTICS.xlsx  |  0.25 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_OneHealth_AMR_Burden_Master.xlsx  |  0.30 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_04_AMR_Gene_Prevalence_Heatmaps\Fig04_ALL_GENES_PREVALENCE_MASTER.xlsx  |  0.41 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_04_AMR_Gene_Prevalence_Heatmaps\Fig04_AMR_Gene_Prevalence_Heatmaps_Data.xlsx  |  0.18 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_06_ECC_Temporal_AMR_Burden\Fig06_Temporal_AMR_Burden_ALL_SOURCE_DATA.xlsx  |  0.49 MB
+
+================================================================================
+ANTIBIOTIC CONSUMPTION
+================================================================================
+Matching files: 4
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_ANTIBIOTIC_CONSUMPTION_COUNTRY_YEAR_MASTER.xlsx  |  0.72 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_CARBAPENEMASE_TEMPORAL_COMPARISON.xlsx  |  0.29 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_LAST_RESORT_TEMPORAL_MASTER.xlsx  |  0.89 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\RAW_CSV\AWARE_CATEGORY.csv  |  0.02 MB
+
+================================================================================
+ONE HEALTH / COUNTRY
+================================================================================
+Matching files: 36
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_EXCLUSION_AUDIT.xlsx  |  0.36 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_METADATA_DISCREPANCIES.xlsx  |  0.01 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_2000_2026_BEFORE_TAXONOMY.xlsx  |  3.85 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_2000_2026_MASTER.xlsx  |  4.13 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.tsv  |  15.54 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.xlsx  |  4.06 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\00_Source_Audit_Summary.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\01_Host_All_Raw_Values.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\02_Isolation_Source_All_Raw_Values.csv  |  0.02 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\03_Host_Normalized_Counts.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\04_Isolation_Source_Normalized_Counts.csv  |  0.02 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\05_Host_Source_Combinations.csv  |  0.03 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\06_All_Genomes_Source_Audit.csv  |  0.92 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\07_Country_Source_Missingness.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\08_Year_Source_Missingness.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\09_Source_Classification_Review.csv  |  0.05 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_All_10713_Source_Classified.csv  |  1.34 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_Host_Source_Classifications.csv  |  0.08 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_Manual_Review_Required.csv  |  0.16 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_Source_Category_Counts.csv  |  0.00 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_SOURCE_CLASSIFICATION_FINAL_CLEANED.xlsx  |  0.70 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_SOURCE_CLASSIFICATION_MASTER.xlsx  |  0.64 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_SOURCE_CONFLICTS_TO_REVIEW.xlsx  |  0.01 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_ANTIBIOTIC_CONSUMPTION_COUNTRY_YEAR_MASTER.xlsx  |  0.72 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\ECC_SUPPLEMENTARY_AND_SOURCE_DATA\ECC_FINAL_2000_2026_MASTER.xlsx  |  4.13 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_01A_Global_Geographical_Distribution\Fig_01A_Country_Income_Database.xlsx  |  0.31 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02A_Species_OneHealth_Distribution\Fig_02A_Species_OneHealth_Data.xlsx  |  0.18 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02C_Country_Species_Diversity\Fig_02C_Country_Diversity_Audit.xlsx  |  0.24 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02C_Country_Species_Diversity\Fig_02C_Country_Diversity_Data.xlsx  |  0.02 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02D_Country_Weighted_Species\Fig_02D_Country_Weighted_Data.xlsx  |  0.04 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03_OneHealth_AMR_Audit\Fig03_OneHealth_Species_Income_AMR_Audit.xlsx  |  2.08 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03F_OneHealth_AMR_Burden\Fig03F_OneHealth_AMR_Burden_Statistics.xlsx  |  0.04 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_AMR_Burden_WITH_STATISTICS.xlsx  |  0.25 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_FINAL_ALL_GENOMES_STATISTICS.xlsx  |  0.24 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_OneHealth_AMR_Burden_Master.xlsx  |  0.30 MB
+D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_06_ECC_Temporal_AMR_Burden\Fig06_Temporal_AMR_Burden_ALL_SOURCE_DATA.xlsx  |  0.49 MB
+
+================================================================================
+IMPORTANT MASTER FILE COLUMN HEADERS
+================================================================================
+
+FILE: D:\Enterobacter\ECC_FINAL_HIGH_QUALITY_NONREDUNDANT_MASTER.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_FINAL_ANALYSIS_MASTER.tsv
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Final_Source_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Original_Manual_Category
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Metadata_Status
+  Source_Eligible
+  Dataset_Exclusion_Reason
+  Dataset_Inclusion_Status
+  AMRFinder_Status_Success
+  PlasmidFinder_Status_Success
+  AMR_Evaluable_Strict
+  Plasmid_Evaluable_Strict
+  AMR_Analysis_Status
+  Plasmid_Analysis_Status
+  AMR_Positive
+  Plasmid_Replicon_Positive
+  Number_Of_Listed_AMR_Classes
+  Country_Available
+  Collection_Year_Numeric
+  Year_Available
+  Geographical_Analysis_Eligible
+  Temporal_Analysis_Eligible
+  Country_Year_Analysis_Eligible
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_ANALYSIS_DATASET\ECC_FINAL_ANALYSIS_MASTER.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Final_Source_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Original_Manual_Category
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Metadata_Status
+  Source_Eligible
+  Dataset_Exclusion_Reason
+  Dataset_Inclusion_Status
+  AMRFinder_Status_Success
+  PlasmidFinder_Status_Success
+  AMR_Evaluable_Strict
+  Plasmid_Evaluable_Strict
+  AMR_Analysis_Status
+  Plasmid_Analysis_Status
+  AMR_Positive
+  Plasmid_Replicon_Positive
+  Number_Of_Listed_AMR_Classes
+  Country_Available
+  Collection_Year_Numeric
+  Year_Available
+  Geographical_Analysis_Eligible
+  Temporal_Analysis_Eligible
+  Country_Year_Analysis_Eligible
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_2000_2026_MASTER.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+  Exclusion_Reason
+  Country_Harmonized
+  Dataset_Status
+  Collection_Year_Numeric
+  Verified_Collection_Year
+  Temporal_Selection
+  Original_Species
+  Normalized_Species
+  Normalized_Genus
+  Original_Subspecies
+  Taxonomic_Resolution
+  Taxonomic_Normalization_Rule
+  Taxonomic_Normalization_Method
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.tsv
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+  Exclusion_Reason
+  Country_Harmonized
+  Dataset_Status
+  Collection_Year_Numeric
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_FINAL_COUNTRY_REPORTED_MASTER.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+  Exclusion_Reason
+  Country_Harmonized
+  Dataset_Status
+  Collection_Year_Numeric
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\10_FINAL_SOURCE_CLASSIFICATION\ECC_SOURCE_CLASSIFICATION_MASTER.xlsx
+  Assembly_Accession
+  Country
+  Collection_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Metadata_Status
+  Final_Source_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_ANTIBIOTIC_CONSUMPTION_COUNTRY_YEAR_MASTER.xlsx
+  Country
+  Country_ISO3
+  Year
+  Human_Total_DDD_per_1000_per_day
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\08_ANTIBIOTIC_CONSUMPTION\ECC_LAST_RESORT_TEMPORAL_MASTER.xlsx
+  Metric
+  Value
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\ECC_SUPPLEMENTARY_AND_SOURCE_DATA\ECC_FINAL_2000_2026_MASTER.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+  Exclusion_Reason
+  Country_Harmonized
+  Dataset_Status
+  Collection_Year_Numeric
+  Verified_Collection_Year
+  Temporal_Selection
+  Original_Species
+  Normalized_Species
+  Normalized_Genus
+  Original_Subspecies
+  Taxonomic_Resolution
+  Taxonomic_Normalization_Rule
+  Taxonomic_Normalization_Method
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03B_Species_AMR_Statistics\Fig_03B_Species_AMR_Statistical_Master.xlsx
+  Analysis
+  Species
+  Family
+  Reference_Group
+  Comparison_Group
+  Reference_Countries
+  Comparison_Countries
+  Reference_Genomes
+  Comparison_Genomes
+  Reference_CountryEqual_Mean
+  Comparison_CountryEqual_Mean
+  Difference_Genes_Per_Genome
+  Difference_CI_Lower
+  Difference_CI_Upper
+  Mean_Ratio
+  Ratio_CI_Lower
+  Ratio_CI_Upper
+  Permutation_P
+  FDR_Primary
+  FDR_All_Eligible
+  Status
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_03G_OneHealth_Genome_Burden\Fig03G_OneHealth_AMR_Burden_Master.xlsx
+  Species
+  Income_Group
+  Source
+  Genome_N
+  Country_N
+  BioProject_N
+  Mean_AMR
+  Median_AMR
+  SD_AMR
+  Q1_AMR
+  Q3_AMR
+  Minimum_AMR
+  Maximum_AMR
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_04_AMR_Gene_Prevalence_Heatmaps\Fig04_ALL_GENES_PREVALENCE_MASTER.xlsx
+  Species
+  AMR_Class
+  Gene
+  Source
+  Income
+  Carrier_Genomes
+  Total_Genomes
+  Prevalence_Percent
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_09_IMP_MCR_FINAL\Fig09_FINAL_IMP_MCR_Phylogeny_Master.xlsx
+  Parameter
+  Value
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_10_NDM_IMP_MCR_VARIATION\ECC_NDM_IMP_MCR_GENOME_MASTER.xlsx
+  Metric
+  Value
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_EXCLUSION_AUDIT.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+  Exclusion_Reason
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_FINAL_COUNTRY_REPORTED_MASTER\ECC_COUNTRY_METADATA_DISCREPANCIES.xlsx
+  Assembly_Accession
+  Genome_File
+  Original_NCBI_Accession
+  Paired_Accession
+  Species
+  Taxonomy_ID
+  Strain
+  BioSample
+  BioProject
+  Country
+  Geographic_Location
+  Collection_Date
+  Collection_Year
+  Host
+  Host_Disease
+  Isolation_Source
+  Latitude_Longitude
+  Assembly_Level
+  Assembly_Status
+  Sequencing_Technology
+  Genome_Size_bp
+  GC_Percent
+  Number_of_Contigs
+  Contig_N50
+  Scaffold_N50
+  CheckM_Completeness
+  CheckM_Contamination
+  ANI_Best_Match
+  ANI_Percent
+  Protein_Coding_Genes
+  Pseudogenes
+  NCBI_Metadata_Status
+  MLST_Scheme
+  MLST_ST
+  MLST_Alleles
+  MLST_Status
+  AMRFinder_Status
+  Total_AMRFinder_Hits
+  AMR_Hit_Count
+  Unique_AMR_Gene_Count
+  AMR_Genes
+  AMR_Classes
+  AMR_Subclasses
+  AMR_Core_Genes
+  AMR_Plus_Genes
+  PlasmidFinder_Status
+  Plasmid_Replicon_Hit_Count
+  Unique_Replicon_Count
+  Plasmid_Replicons
+  Replicon_Detection
+  CheckM_Data_Status
+  CheckM_95_5_Screen
+  Final_Exclusion_Status
+  Duplication_Review_Status
+  Final_CheckM_Status
+  CheckM_Exclusion_Reason
+  Assemblies_Per_BioSample
+  Selected_Representative
+  Final_Selection_Status
+  Final_Exclusion_Reason
+  Sequence_Duplicate_Status
+  Source_Audit_Country
+  Source_Audit_Year
+  Raw_Host
+  Raw_Isolation_Source
+  Normalized_Host
+  Normalized_Isolation_Source
+  Final_Source_Category
+  Original_Manual_Category
+  Classification_Reason
+  Classification_Confidence
+  Manual_Review_Required
+  Country_Original_Clean
+  Country_Audit_Clean
+  Original_Country_Available
+  Audit_Country_Available
+  Country_Comparison_Status
+  Source_Eligible
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\00_Source_Metadata_Audit\07_Country_Source_Missingness.csv
+  Group
+  Total_Genomes
+  BOTH_REPORTED
+  HOST_MISSING
+  ISOLATION_SOURCE_MISSING
+  BOTH_MISSING
+  Any_Metadata_Missing
+  Any_Metadata_Missing_Percent
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_01A_Global_Geographical_Distribution\Fig_01A_Country_Income_Database.xlsx
+  Country_Harmonized
+  Genome_Count
+  ISO3
+  Income_Group
+  Income_Source
+  WB_Code
+  Longitude
+  Latitude
+  Map_Status
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02C_Country_Species_Diversity\Fig_02C_Country_Diversity_Audit.xlsx
+  Country
+  Income_Group
+  Total_Genomes
+  Resolved_Genomes
+  Unresolved_Genomes
+  Unresolved_Percent
+  Resolved_Species_Richness
+  Shannon_H
+  Simpson_1_minus_D
+  Inverse_Simpson
+  Pielou_Evenness
+  Dominant_Species
+  Dominant_Species_Percent
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02C_Country_Species_Diversity\Fig_02C_Country_Diversity_Data.xlsx
+  Country
+  Income_Group
+  Total_Genomes
+  Resolved_Genomes
+  Observed_Richness
+  Shannon_H
+  Rarefied_Richness_10
+  Rarefied_Richness_20
+
+FILE: D:\Enterobacter\ECC_NPJ_AMR_FIGURES\Fig_02D_Country_Weighted_Species\Fig_02D_Country_Weighted_Data.xlsx
+  Analysis
+  Income_Group
+  Eligible_Countries
+  Included_Genomes
+  Species
+  Genome_Weighted_Percent
+  Country_Equal_Percent
+  Difference_Percentage_Points
+
+================================================================================
+AUDIT COMPLETED
+================================================================================
